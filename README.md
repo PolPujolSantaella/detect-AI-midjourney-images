@@ -1,0 +1,1 @@
+# detect-AI-midjourney-images
